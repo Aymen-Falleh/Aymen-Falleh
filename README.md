@@ -36,11 +36,12 @@ Feel free to reach out if you want to collaborate!
 
 ---
 
-### 📊 Activity & Languages
+### 📊 Github Stats
 ![Aymen's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Aymen-Falleh&theme=tokyo-night)
 
-![Top Langs](https://github-github-stats-six.vercel.app/api/top-langs/?username=Aymen-Falleh&layout=compact&theme=tokyonight)
-
+---
+### 📊 My Coding Consistency
+![Aymen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aymen-Falleh&theme=tokyonight)
 ---
 
 ### 📫 Reach Out
