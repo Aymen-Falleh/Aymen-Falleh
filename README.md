@@ -26,7 +26,7 @@ Feel free to reach out if you want to collaborate!
 * **🚦 License Plate OCR:** A live-video pipeline for detecting and reading plates on the fly.
 * **👁️ Gaze Tracker:** Real-time blink and direction tracking—perfect for driver safety apps.
 * **⛑️ Helmet Detector:** An automated system to keep track of safety gear on-site.
-* **📚 Knowledge Base RAG: Developing custom retrieval systems that use Vector Embeddings to ground LLM responses in private documentation.
+* **📚 Knowledge Base RAG:** Developing custom retrieval systems that use Vector Embeddings to ground LLM responses in private documentation.
 
 ---
 
