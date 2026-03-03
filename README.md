@@ -36,8 +36,10 @@ Feel free to reach out if you want to collaborate!
 
 ---
 
-### 📊 GitHub Stats
-![Aymen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aymen-Falleh&show_icons=true&theme=tokyonight)
+### 📊 Activity & Languages
+![Aymen's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Aymen-Falleh&theme=tokyo-night)
+
+![Top Langs](https://github-github-stats-six.vercel.app/api/top-langs/?username=Aymen-Falleh&layout=compact&theme=tokyonight)
 
 ---
 
