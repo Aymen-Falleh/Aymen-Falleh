@@ -4,9 +4,7 @@
 
 I’m an AI developer who loves solving real-world problems using data and AI to make our lives easier. I’m always happy to learn, develop, and contribute.
 
-Feel free to reach out if you want to collaborate!I’m an AI developer who loves solving real-world problems using data and AI to make our lives easier. I’m always happy to learn, develop, and contribute.
-
-Feel free to reach out if you want to collaborate.
+Feel free to reach out if you want to collaborate!
 
 ---
 
