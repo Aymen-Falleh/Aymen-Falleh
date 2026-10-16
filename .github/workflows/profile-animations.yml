@@ -35,6 +35,10 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: ./profile-3d-settings.json
 
+      # The action leaves the block faces unpainted (black on dark), so paint them amber
+      - name: Paint skyline amber
+        run: python3 scripts/amberize_3d.py profile-3d-contrib/profile-amber.svg
+
       - name: Commit and push
         run: |
           git config user.name github-actions
