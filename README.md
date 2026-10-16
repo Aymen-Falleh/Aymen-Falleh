@@ -1,50 +1,65 @@
-# Hi, I'm Aymen Falleh 👋 
+<div align="center">
 
-### 💡 AI Developer | Computer Vision | Problem Solver 
+<img src="assets/banner.svg" alt="Aymen Falleh — AI/ML Engineer and Full-Stack Developer" width="100%" />
 
-I’m an AI developer who loves solving real-world problems using data and AI to make our lives easier. I’m always happy to learn, develop, and contribute.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E9AC50&center=true&vCenter=true&width=820&height=48&lines=Got+an+idea%3F;I+build+the+system+that+makes+it+real.;I+learn+fast%2C+then+ship+useful+AI.;Whatever+it+takes.+Shipped." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A8650F&center=true&vCenter=true&width=820&height=48&lines=Got+an+idea%3F;I+build+the+system+that+makes+it+real.;I+learn+fast%2C+then+ship+useful+AI.;Whatever+it+takes.+Shipped." />
+  <img alt="Got an idea? I build the system that makes it real." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E9AC50&center=true&vCenter=true&width=820&height=48&lines=Got+an+idea%3F;I+build+the+system+that+makes+it+real.;I+learn+fast%2C+then+ship+useful+AI.;Whatever+it+takes.+Shipped." />
+</picture>
 
-Feel free to reach out if you want to collaborate!
+<a href="https://aymenfalleh.me"><img src="assets/cta.svg" width="380" alt="View my work at aymenfalleh.me" /></a>
 
----
+<br /><br />
 
-### 🛠️ Tech Stack
+<img src="assets/terminal.svg" alt="Terminal: whoami, cat mission.txt, ls stack, ship --no-matter-what" width="100%" />
 
-**AI & Machine Learning**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=target&logoColor=black) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0078D4?style=for-the-badge&logo=google&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="assets/divider.svg" alt="" width="100%" />
 
-**Deployment & Automation**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+### `$ ls stack/`
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="right"><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,pytorch" alt="Python, PyTorch" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,django,nextjs,react" alt="FastAPI, Django, Next.js, React" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="PostgreSQL, MongoDB, Redis" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,linux" alt="Docker, Git, Linux" /></td>
+  </tr>
+</table>
 
----
+<sub>Also: LangChain · LLMOps · MCP · MLOps · Scikit-Learn · Pinecone · Explainable AI · GNNs</sub>
 
-### 🌟 What I've Been Building
+<img src="assets/divider.svg" alt="" width="100%" />
 
-* **🚦 License Plate OCR:** A live-video pipeline for detecting and reading plates on the fly.
-* **👁️ Gaze Tracker:** Real-time blink and direction tracking—perfect for driver safety apps.
-* **⛑️ Helmet Detector:** An automated system to keep track of safety gear on-site.
-* **📚 Knowledge Base RAG:** Developing custom retrieval systems that use Vector Embeddings to ground LLM responses in private documentation.
+### `$ git log --stat`
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Aymen-Falleh&show_icons=true&hide_border=true&bg_color=171A18&title_color=E9AC50&icon_color=D9822B&text_color=F6EFE4&ring_color=E9AC50&rank_icon=github" alt="Aymen's GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com?user=Aymen-Falleh&hide_border=true&background=171A18&ring=E9AC50&fire=D9822B&currStreakNum=F6EFE4&currStreakLabel=E9AC50&sideNums=F6EFE4&sideLabels=AAA69E&dates=AAA69E&stroke=393B36" alt="Aymen's contribution streak" height="165" />
 
-### 📈 Currently Into...
-- 🧬 Exploring **GNNs** and **Recommendation Systems**.
-- 🤝 Looking to contribute to cool **Open Source** projects.
-- ⚡ Open for **Freelance** gigs or just a technical chat.
+<img src="./profile-3d-contrib/profile-amber.svg" alt="3D view of Aymen's contributions" width="100%" />
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/snake-light.svg" />
+  <img alt="Snake eating Aymen's contribution graph" src="./dist/snake-dark.svg" width="100%" />
+</picture>
 
-### 📊 Github Stats
-![Aymen's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Aymen-Falleh&theme=tokyo-night)
+<img src="assets/divider.svg" alt="" width="100%" />
 
----
-### 📊 My Coding Consistency
-![Aymen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aymen-Falleh&theme=tokyonight)
----
+### `$ ./contact --now`
 
-### 📫 Reach Out
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-falleh-a86827290/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eymen.falleh2004@gmail.com)
+<a href="mailto:eymen.falleh2004@gmail.com"><img src="https://img.shields.io/badge/Email-eymen.falleh2004%40gmail.com-E9AC50?style=for-the-badge&logo=gmail&logoColor=101312&labelColor=171A18" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/aymen-falleh/"><img src="https://img.shields.io/badge/LinkedIn-Aymen_Falleh-E9AC50?style=for-the-badge&logo=linkedin&logoColor=101312&labelColor=171A18" alt="LinkedIn" /></a>
+<a href="https://aymenfalleh.me"><img src="https://img.shields.io/badge/Portfolio-aymenfalleh.me-E9AC50?style=for-the-badge&logo=googlechrome&logoColor=101312&labelColor=171A18" alt="Portfolio" /></a>
+
+</div>

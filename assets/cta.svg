@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 100" width="560" height="100" role="img" aria-label="View my work at aymenfalleh.me">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e9ac50"/><stop offset="1" stop-color="#d9822b"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="pill"><rect x="14" y="14" width="532" height="72" rx="36"/></clipPath>
+<filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect x="14" y="14" width="532" height="72" rx="36" fill="#e9ac50" filter="url(#glow)" opacity=".5"><animate attributeName="opacity" values=".3;.85;.3" dur="2.8s" repeatCount="indefinite"/></rect>
+<rect x="14" y="14" width="532" height="72" rx="36" fill="url(#g)"/>
+<g clip-path="url(#pill)"><rect x="-140" y="0" width="110" height="100" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" from="-140" to="700" dur="3.6s" repeatCount="indefinite"/></rect></g>
+<text x="280.0" y="59" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="800" letter-spacing="2" fill="#101312">VIEW MY WORK  →  aymenfalleh.me</text>
+</svg>
