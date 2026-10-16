@@ -21,38 +21,22 @@
 <table align="center">
   <tr>
     <td align="right"><b>AI / ML</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Python-171A18?style=for-the-badge&logo=python&logoColor=E9AC50" alt="Python" />
-      <img src="https://img.shields.io/badge/PyTorch-171A18?style=for-the-badge&logo=pytorch&logoColor=E9AC50" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/TensorFlow-171A18?style=for-the-badge&logo=tensorflow&logoColor=E9AC50" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/Keras-171A18?style=for-the-badge&logo=keras&logoColor=E9AC50" alt="Keras" />
-      <img src="https://img.shields.io/badge/scikit--learn-171A18?style=for-the-badge&logo=scikitlearn&logoColor=E9AC50" alt="scikit-learn" />
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,pytorch" alt="Python, PyTorch" />
+      <img src="assets/ml-icons.svg" height="48" alt="TensorFlow, Keras, scikit-learn" />
     </td>
   </tr>
   <tr>
     <td align="right"><b>Web</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/FastAPI-171A18?style=for-the-badge&logo=fastapi&logoColor=E9AC50" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Django-171A18?style=for-the-badge&logo=django&logoColor=E9AC50" alt="Django" />
-      <img src="https://img.shields.io/badge/Next.js-171A18?style=for-the-badge&logo=nextdotjs&logoColor=E9AC50" alt="Next.js" />
-      <img src="https://img.shields.io/badge/React-171A18?style=for-the-badge&logo=react&logoColor=E9AC50" alt="React" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,django,nextjs,react" alt="FastAPI, Django, Next.js, React" /></td>
   </tr>
   <tr>
     <td align="right"><b>Data</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/PostgreSQL-171A18?style=for-the-badge&logo=postgresql&logoColor=E9AC50" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MongoDB-171A18?style=for-the-badge&logo=mongodb&logoColor=E9AC50" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Redis-171A18?style=for-the-badge&logo=redis&logoColor=E9AC50" alt="Redis" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="PostgreSQL, MongoDB, Redis" /></td>
   </tr>
   <tr>
     <td align="right"><b>Tools</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Docker-171A18?style=for-the-badge&logo=docker&logoColor=E9AC50" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-171A18?style=for-the-badge&logo=git&logoColor=E9AC50" alt="Git" />
-      <img src="https://img.shields.io/badge/Linux-171A18?style=for-the-badge&logo=linux&logoColor=E9AC50" alt="Linux" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,linux" alt="Docker, Git, Linux" /></td>
   </tr>
 </table>
 
