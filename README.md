@@ -21,23 +21,42 @@
 <table align="center">
   <tr>
     <td align="right"><b>AI / ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,pytorch" alt="Python, PyTorch" /></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Python-171A18?style=for-the-badge&logo=python&logoColor=E9AC50" alt="Python" />
+      <img src="https://img.shields.io/badge/PyTorch-171A18?style=for-the-badge&logo=pytorch&logoColor=E9AC50" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-171A18?style=for-the-badge&logo=tensorflow&logoColor=E9AC50" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Keras-171A18?style=for-the-badge&logo=keras&logoColor=E9AC50" alt="Keras" />
+      <img src="https://img.shields.io/badge/scikit--learn-171A18?style=for-the-badge&logo=scikitlearn&logoColor=E9AC50" alt="scikit-learn" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Web</b></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi,django,nextjs,react" alt="FastAPI, Django, Next.js, React" /></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/FastAPI-171A18?style=for-the-badge&logo=fastapi&logoColor=E9AC50" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Django-171A18?style=for-the-badge&logo=django&logoColor=E9AC50" alt="Django" />
+      <img src="https://img.shields.io/badge/Next.js-171A18?style=for-the-badge&logo=nextdotjs&logoColor=E9AC50" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-171A18?style=for-the-badge&logo=react&logoColor=E9AC50" alt="React" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="PostgreSQL, MongoDB, Redis" /></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/PostgreSQL-171A18?style=for-the-badge&logo=postgresql&logoColor=E9AC50" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-171A18?style=for-the-badge&logo=mongodb&logoColor=E9AC50" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-171A18?style=for-the-badge&logo=redis&logoColor=E9AC50" alt="Redis" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,linux" alt="Docker, Git, Linux" /></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Docker-171A18?style=for-the-badge&logo=docker&logoColor=E9AC50" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-171A18?style=for-the-badge&logo=git&logoColor=E9AC50" alt="Git" />
+      <img src="https://img.shields.io/badge/Linux-171A18?style=for-the-badge&logo=linux&logoColor=E9AC50" alt="Linux" />
+    </td>
   </tr>
 </table>
 
-<sub>Also: LangChain · LLMOps · MCP · MLOps · Scikit-Learn · Pinecone · Explainable AI · GNNs</sub>
+<sub>Also: LangChain · LLMOps · MCP · MLOps · Pinecone · Explainable AI · GNNs</sub>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
@@ -56,10 +75,11 @@
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### `$ ./contact --now`
+<img src="assets/hook.svg" alt="Have an idea? Don't hesitate to contact me, let's build it together." width="100%" />
 
-<a href="mailto:eymen.falleh2004@gmail.com"><img src="https://img.shields.io/badge/Email-eymen.falleh2004%40gmail.com-E9AC50?style=for-the-badge&logo=gmail&logoColor=101312&labelColor=171A18" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/aymen-falleh/"><img src="https://img.shields.io/badge/LinkedIn-Aymen_Falleh-E9AC50?style=for-the-badge&logo=linkedin&logoColor=101312&labelColor=171A18" alt="LinkedIn" /></a>
-<a href="https://aymenfalleh.me"><img src="https://img.shields.io/badge/Portfolio-aymenfalleh.me-E9AC50?style=for-the-badge&logo=googlechrome&logoColor=101312&labelColor=171A18" alt="Portfolio" /></a>
+<a href="mailto:eymen.falleh2004@gmail.com?subject=Let%27s%20build%20something%20together&amp;body=Hi%20Aymen%2C%0D%0A%0D%0AI%20have%20an%20idea%3A%20%0D%0A%0D%0AWhat%20I%20need%3A%20%0D%0A%0D%0ATimeline%3A%20"><img src="assets/cta-mail.svg" width="380" alt="Email me your idea" /></a>
+
+<a href="https://www.linkedin.com/in/aymen-falleh/"><img src="https://img.shields.io/badge/Message_me_on-LinkedIn-E9AC50?style=for-the-badge&logo=linkedin&logoColor=101312&labelColor=171A18" alt="Message me on LinkedIn" /></a>
+<a href="https://aymenfalleh.me/#contact"><img src="https://img.shields.io/badge/Use_the-Contact_form-E9AC50?style=for-the-badge&logo=googlechrome&logoColor=101312&labelColor=171A18" alt="Use the contact form on aymenfalleh.me" /></a>
 
 </div>

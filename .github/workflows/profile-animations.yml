@@ -9,6 +9,7 @@ on:
     paths:
       - ".github/workflows/profile-animations.yml"
       - "profile-3d-settings.json"
+      - "scripts/amberize_3d.py"
 
 permissions:
   contents: write

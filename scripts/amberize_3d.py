@@ -34,6 +34,8 @@ def paint(_m):
 
 
 svg = RECT.sub(paint, svg)
+# language chart: TypeScript blue -> yellow (donut slice and legend swatch)
+svg = re.sub(r"#3178c6", "#f7df1e", svg, flags=re.I)
 svg = svg.replace("</style>", ".fill-strong { fill: #e9ac50; }\n</style>", 1)
 svg = svg.replace("<svg ", '<svg data-amber="1" ', 1)
 open(path, "w", encoding="utf-8").write(svg)
